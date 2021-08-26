@@ -8,7 +8,6 @@ body{
     margin: 0px auto;
     padding: 2em;
 }
-
 .headerContainer{
     display: flex;
     flex-flow: column wrap;
